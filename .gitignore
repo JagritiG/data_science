@@ -1,6 +1,10 @@
 venv
 /.idea
 /venv
+
+ibm_data_science_2021.xlsx
+/certificates
+
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
